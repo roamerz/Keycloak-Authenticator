@@ -1,0 +1,10 @@
+roamerz\keycloak\authenticator\SmsAuthenticator.class
+roamerz\keycloak\authenticator\gateway\EmailService.class
+META-INF\services\org.keycloak.authentication.AuthenticatorFactory
+roamerz\keycloak\authenticator\SmsAuthenticatorFactory.class
+roamerz\keycloak\authenticator\gateway\AwsEmailService.class
+roamerz\keycloak\authenticator\gateway\SmsServiceFactory.class
+roamerz\keycloak\authenticator\gateway\AwsSmsService.class
+roamerz\keycloak\authenticator\gateway\AwsEmailServiceFactory.class
+roamerz\keycloak\authenticator\SmsConstants.class
+roamerz\keycloak\authenticator\gateway\SmsService.class
